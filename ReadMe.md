@@ -1,15 +1,18 @@
 <div align="center">
 
+<img src="assets/github-banner.png" width="100%" alt="Kaushal Komujwar — Build, Automate, Grow">
+
 # 👋 Hi, I'm Kaushal Komujwar
 
-### 🚀 Build • Automate • Grow
+### `MCA Student` · `DevOps Enthusiast` · `Full-Stack Developer`
 
-**MCA Student | DevOps Enthusiast | Cloud Computing | Full-Stack Developer**
+**Build · Automate · Grow**
 
-Building real-world projects, automating workflows, and learning every day.
+*Building real-world projects and learning something new every day.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/its-kaushal)
+[![GitHub](https://img.shields.io/badge/GitHub-its--kaushal-181717?style=for-the-badge&logo=github)](https://github.com/its-kaushal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=its-kaushal&style=for-the-badge&color=0e75b6)](https://github.com/its-kaushal)
 
 </div>
 
@@ -17,14 +20,15 @@ Building real-world projects, automating workflows, and learning every day.
 
 ## 👨‍💻 About Me
 
-Hi! I'm Kaushal, an MCA student passionate about **DevOps, Cloud Computing, Full-Stack Development, and Data Analytics**.
+Hello! I'm **Kaushal Komujwar**, an MCA student interested in DevOps, cloud computing, software development, and data analytics.
 
-- 🔭 Working on DevOps projects and full-stack applications.
-- 🌱 Learning AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, and Data Analytics.
-- 🤝 Interested in open-source contributions and collaborative projects.
-- 💬 Happy to discuss Git, GitHub, Linux, Docker, Jenkins, and web development.
-- 🎯 Goal: Build practical skills and grow into a DevOps Engineer.
-- ⚡ I believe in learning by building, testing, and automating.
+- 🔭 Building practical DevOps and full-stack projects.
+- 🌱 Learning AWS, Docker, Kubernetes, Jenkins, Terraform, and Linux.
+- 💻 Exploring Python, Java, JavaScript, React, and backend development.
+- 📊 Developing my skills in data analysis and visualization.
+- 🤝 Interested in collaborating on useful projects and open-source software.
+- 🎯 My goal is to grow into a skilled DevOps and cloud engineer.
+- ⚡ My philosophy: Learn by building, improve by experimenting.
 
 ---
 
@@ -32,12 +36,14 @@ Hi! I'm Kaushal, an MCA student passionate about **DevOps, Cloud Computing, Full
 
 ### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 💻 Programming & Web Development
 
@@ -46,31 +52,43 @@ Hi! I'm Kaushal, an MCA student passionate about **DevOps, Cloud Computing, Full
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚡ VoltCare
-Smart electricity complaint management application with AI integration.
+### ⚡ VoltCare — Smart Electricity Complaint Management
 
-### 🎵 SyncBeats
-Collaborative music listening application with rooms, synchronized playback, chat, and playlists.
+A web application concept for managing electricity complaints and consumer requests, with AI integration.
 
-### 🐳 DevOps Projects
-Hands-on practice with Docker, Jenkins, Maven, CI/CD pipelines, and Kubernetes.
+**Technologies:** React · Node.js · MongoDB · OpenAI
 
-> Explore my repositories for the projects, source code, and implementation details.
+[![View Projects](https://img.shields.io/badge/Explore-GitHub_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/its-kaushal?tab=repositories)
 
-**[➡️ Explore My Repositories](https://github.com/its-kaushal?tab=repositories)**
+### 🎵 SyncBeats — Listen Together
+
+A collaborative music-listening web app concept with shared rooms, synchronized YouTube playback, chat, playlists, and login.
+
+**Technologies:** React · Node.js · Socket.IO · YouTube Embedded Player
+
+[![View Projects](https://img.shields.io/badge/Explore-GitHub_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/its-kaushal?tab=repositories)
+
+### ⚙️ DevOps & CI/CD Projects
+
+Hands-on practice with containerization, build automation, CI/CD pipelines, and deployment workflows.
+
+**Technologies:** Docker · Jenkins · Maven · Kubernetes · Linux
+
+[![View DevOps Projects](https://img.shields.io/badge/View-DevOps_Projects-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/its-kaushal?tab=repositories)
 
 ---
 
@@ -78,33 +96,38 @@ Hands-on practice with Docker, Jenkins, Maven, CI/CD pipelines, and Kubernetes.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-kaushal&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=its-kaushal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-kaushal&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-kaushal&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=its-kaushal&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=its-kaushal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
 
 ---
 
-## 🎯 My Goals
+## 🎯 Current Goals
 
-- 🚀 Build and deploy real-world DevOps projects.
-- ☁️ Strengthen AWS and cloud infrastructure skills.
-- 🔄 Automate builds, testing, and deployments.
-- 🐳 Practise containerization and orchestration.
-- 📊 Develop practical Data Analytics projects.
-- 🤝 Contribute to open-source projects.
+- [ ] Strengthen Linux and networking fundamentals.
+- [ ] Build practical Docker and Kubernetes projects.
+- [ ] Develop Jenkins CI/CD pipelines.
+- [ ] Practice AWS deployment and cloud automation.
+- [ ] Improve Python and data analytics skills.
+- [ ] Publish clear documentation for my projects.
 
 ---
 
+## 🤝 Let's Connect
+
+I'm interested in learning, building, and collaborating with other developers.
+
 <div align="center">
 
-### 🤝 Let's Build Something Amazing!
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/its-kaushal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
-**Learn continuously. Automate intelligently. Build fearlessly.** 🚀
+### 🙏 Jai Shree Ram 🚩
 
-🙏 Jai Shree Ram 🚩
+*Better code. Better systems. A better tomorrow.*
 
 </div>
