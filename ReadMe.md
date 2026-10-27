@@ -1,21 +1,110 @@
-# 💫 About Me:
-Hi, I'm Kaushal Komujwar! 👋<br><br>I'm an MCA student passionate about DevOps, Cloud Computing, Full-Stack Development, and Data Analytics. I enjoy learning new technologies, building real-world projects, and automating workflows.<br><br>🔭 I'm currently working on DevOps projects and full-stack web applications.<br><br>🤝 I'm looking to collaborate on DevOps, Cloud Computing, and Open-Source Projects.<br><br>🆘 I'm exploring and improving my skills in Kubernetes, AWS, CI/CD automation, and real-world DevOps practices.<br><br>🌱 I'm currently learning Data Analytics, AWS, Docker, Kubernetes, Jenkins, Terraform, and Linux.<br><br>💬 Ask me about DevOps, Git, GitHub, Docker, Jenkins, Linux, and Web Development.<br><br>⚡ Fun fact: I believe in learning by building real-world projects and automating everything possible!
+<div align="center">
 
+# 👋 Hi, I'm Kaushal Komujwar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaushal-komujwar-4436a42a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushal.komujwar111@gmail.com) 
+### 🚀 Build • Automate • Grow
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=its-kaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=its-kaushal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=its-kaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**MCA Student | DevOps Enthusiast | Cloud Computing | Full-Stack Developer**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=its-kaushal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Building real-world projects, automating workflows, and learning every day.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/its-kaushal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=its-kaushal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hi! I'm Kaushal, an MCA student passionate about **DevOps, Cloud Computing, Full-Stack Development, and Data Analytics**.
+
+- 🔭 Working on DevOps projects and full-stack applications.
+- 🌱 Learning AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, and Data Analytics.
+- 🤝 Interested in open-source contributions and collaborative projects.
+- 💬 Happy to discuss Git, GitHub, Linux, Docker, Jenkins, and web development.
+- 🎯 Goal: Build practical skills and grow into a DevOps Engineer.
+- ⚡ I believe in learning by building, testing, and automating.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 💻 Programming & Web Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ VoltCare
+Smart electricity complaint management application with AI integration.
+
+### 🎵 SyncBeats
+Collaborative music listening application with rooms, synchronized playback, chat, and playlists.
+
+### 🐳 DevOps Projects
+Hands-on practice with Docker, Jenkins, Maven, CI/CD pipelines, and Kubernetes.
+
+> Explore my repositories for the projects, source code, and implementation details.
+
+**[➡️ Explore My Repositories](https://github.com/its-kaushal?tab=repositories)**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-kaushal&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-kaushal&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=its-kaushal&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- 🚀 Build and deploy real-world DevOps projects.
+- ☁️ Strengthen AWS and cloud infrastructure skills.
+- 🔄 Automate builds, testing, and deployments.
+- 🐳 Practise containerization and orchestration.
+- 📊 Develop practical Data Analytics projects.
+- 🤝 Contribute to open-source projects.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Amazing!
+
+**Learn continuously. Automate intelligently. Build fearlessly.** 🚀
+
+🙏 Jai Shree Ram 🚩
+
+</div>
